@@ -85,7 +85,7 @@ Each paper summary follows a standardized structure:
 ## 📂 Repository Structure
 
 ```text
-CLIP-Summary/
+CLIPpedia/
 │
 ├── papers/
 │   ├── 2021/
