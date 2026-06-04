@@ -19,6 +19,45 @@ Rather than providing short abstracts, each summary aims to answer:
 * 📈 How does it compare with previous approaches?
 * ⚖️ What are the strengths and limitations?
 
+
+---
+
+## 🗺️ Reading Roadmap
+
+### 🏛️ Foundation Papers
+
+| Year | Paper    | Status |
+| ---- | -------- | ------ |
+| 2021 | CLIP     | ⏳      |
+| 2021 | ALIGN    | ⏳      |
+| 2022 | OpenCLIP | ⏳      |
+| 2023 | SigLIP   | ⏳      |
+
+### 🎨 Prompt Learning
+
+| Year | Paper  | Status |
+| ---- | ------ | ------ |
+| 2022 | CoOp   | ⏳      |
+| 2022 | CoCoOp | ⏳      |
+| 2022 | ProDA  | ⏳      |
+
+### 🤖 Vision-Language Models
+
+| Year | Paper          | Status |
+| ---- | -------------- | ------ |
+| 2022 | BLIP           | ⏳      |
+| 2023 | BLIP-2         | ⏳      |
+| 2023 | InstructBLIP   | ⏳      |
+| 2024 | LLaVA Variants | ⏳      |
+
+### 🔗 Retrieval & Alignment
+
+| Year | Paper    | Status |
+| ---- | -------- | ------ |
+| 2021 | ALBEF    | ⏳      |
+| 2022 | Florence | ⏳      |
+| 2023 | EVA-CLIP | ⏳      |
+
 ---
 
 ## 📝 Summary Format
@@ -69,44 +108,6 @@ CLIP-Summary/
 │
 └── README.md
 ```
-
----
-
-## 🗺️ Reading Roadmap
-
-### 🏛️ Foundation Papers
-
-| Year | Paper    | Status |
-| ---- | -------- | ------ |
-| 2021 | CLIP     | ⏳      |
-| 2021 | ALIGN    | ⏳      |
-| 2022 | OpenCLIP | ⏳      |
-| 2023 | SigLIP   | ⏳      |
-
-### 🎨 Prompt Learning
-
-| Year | Paper  | Status |
-| ---- | ------ | ------ |
-| 2022 | CoOp   | ⏳      |
-| 2022 | CoCoOp | ⏳      |
-| 2022 | ProDA  | ⏳      |
-
-### 🤖 Vision-Language Models
-
-| Year | Paper          | Status |
-| ---- | -------------- | ------ |
-| 2022 | BLIP           | ⏳      |
-| 2023 | BLIP-2         | ⏳      |
-| 2023 | InstructBLIP   | ⏳      |
-| 2024 | LLaVA Variants | ⏳      |
-
-### 🔗 Retrieval & Alignment
-
-| Year | Paper    | Status |
-| ---- | -------- | ------ |
-| 2021 | ALBEF    | ⏳      |
-| 2022 | Florence | ⏳      |
-| 2023 | EVA-CLIP | ⏳      |
 
 ---
 
