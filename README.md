@@ -24,39 +24,21 @@ Rather than providing short abstracts, each summary aims to answer:
 
 ## 🗺️ Reading Roadmap
 
-### 🏛️ Foundation Papers
-
 | Year | Paper    | Status |
 | ---- | -------- | ------ |
 | 2021 | CLIP     | ⏳      |
 | 2021 | ALIGN    | ⏳      |
 | 2022 | OpenCLIP | ⏳      |
 | 2023 | SigLIP   | ⏳      |
-
-### 🎨 Prompt Learning
-
-| Year | Paper  | Status |
-| ---- | ------ | ------ |
-| 2022 | CoOp   | ⏳      |
-| 2022 | CoCoOp | ⏳      |
-| 2022 | ProDA  | ⏳      |
-
-### 🤖 Vision-Language Models
-
-| Year | Paper          | Status |
-| ---- | -------------- | ------ |
-| 2022 | BLIP           | ⏳      |
-| 2023 | BLIP-2         | ⏳      |
-| 2023 | InstructBLIP   | ⏳      |
-| 2024 | LLaVA Variants | ⏳      |
-
-### 🔗 Retrieval & Alignment
-
-| Year | Paper    | Status |
-| ---- | -------- | ------ |
-| 2021 | ALBEF    | ⏳      |
-| 2022 | Florence | ⏳      |
-| 2023 | EVA-CLIP | ⏳      |
+| 2023 | S-CLIP   | ⏳      |
+| 2024 | FineCLIP   | ⏳      |
+| 2024 | CLIPCEIL   | ⏳      |
+| 2024 | SCLIP   | ⏳      |
+| 2025 | Synergy-CLIP   | ⏳      |
+| 2025 | COLA   | ⏳      |
+| 2025 | Meta CLIP 2   | ⏳      |
+| 2025 | DiffCLIP   | ⏳      |
+| 2025 | CLOC   | ⏳      |
 
 ---
 
