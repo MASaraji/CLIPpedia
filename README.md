@@ -1,6 +1,6 @@
-# CLIP-Summary
+# 🧠 CLIP-Summary
 
-> A comprehensive collection of deep-dive summaries, analyses, and notes on CLIP and CLIP-related vision-language research papers.
+> 🚀 A comprehensive collection of deep-dive summaries, analyses, and notes on CLIP and CLIP-related vision-language research papers.
 
 ![GitHub stars](https://img.shields.io/github/stars/your-username/CLIP-Summary?style=social)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -8,23 +8,24 @@
 
 ---
 
-## About
+## 🎯 About
 
-The rapid growth of Vision-Language Models (VLMs) has produced hundreds of papers extending, improving, or rethinking CLIP. Reading and organizing this literature can be time-consuming, especially for researchers entering the field.
+The rapid growth of **Vision-Language Models (VLMs)** has produced hundreds of papers extending, improving, or rethinking CLIP. Reading and organizing this literature can be time-consuming, especially for researchers entering the field.
 
 **CLIP-Summary** is a curated repository of detailed paper summaries that focus on understanding the core ideas behind influential CLIP-based methods and multimodal foundation models.
 
 Rather than providing short abstracts, each summary aims to answer:
 
-* What problem does the paper solve?
-* Why is the problem important?
-* What are the key innovations?
-* How does the method work?
-* How does it compare with previous approaches?
-* What are the strengths and limitations?
+* 🔍 What problem does the paper solve?
+* 💡 Why is the problem important?
+* ✨ What are the key innovations?
+* ⚙️ How does the method work?
+* 📈 How does it compare with previous approaches?
+* ⚖️ What are the strengths and limitations?
+
 ---
 
-## Summary Format
+## 📝 Summary Format
 
 Each paper summary follows a standardized structure:
 
@@ -46,7 +47,7 @@ Each paper summary follows a standardized structure:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 CLIP-Summary/
@@ -75,9 +76,9 @@ CLIP-Summary/
 
 ---
 
-## Reading Roadmap
+## 🗺️ Reading Roadmap
 
-### Foundation Papers
+### 🏛️ Foundation Papers
 
 | Year | Paper    | Status |
 | ---- | -------- | ------ |
@@ -86,7 +87,7 @@ CLIP-Summary/
 | 2022 | OpenCLIP | ⏳      |
 | 2023 | SigLIP   | ⏳      |
 
-### Prompt Learning
+### 🎨 Prompt Learning
 
 | Year | Paper  | Status |
 | ---- | ------ | ------ |
@@ -94,7 +95,7 @@ CLIP-Summary/
 | 2022 | CoCoOp | ⏳      |
 | 2022 | ProDA  | ⏳      |
 
-### Vision-Language Models
+### 🤖 Vision-Language Models
 
 | Year | Paper          | Status |
 | ---- | -------------- | ------ |
@@ -103,7 +104,7 @@ CLIP-Summary/
 | 2023 | InstructBLIP   | ⏳      |
 | 2024 | LLaVA Variants | ⏳      |
 
-### Retrieval & Alignment
+### 🔗 Retrieval & Alignment
 
 | Year | Paper    | Status |
 | ---- | -------- | ------ |
@@ -113,17 +114,15 @@ CLIP-Summary/
 
 ---
 
-## Contributions
+## 🤝 Contributions
 
 Contributions are welcome.
 
 If you would like to contribute:
 
-1. Fork the repository.
-2. Add a paper summary following the standard template.
-3. Ensure technical accuracy and include references.
-4. Submit a pull request.
+1. 🍴 Fork the repository
+2. 📝 Add a paper summary following the standard template
+3. 🔍 Ensure technical accuracy and include references
+4. 🚀 Submit a pull request
 
 ---
-
-
