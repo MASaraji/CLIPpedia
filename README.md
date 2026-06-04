@@ -1,4 +1,4 @@
-# 🧠 CLIP-Summary
+# 🧠 CLIPpedia
 
 > 🚀 A comprehensive collection of deep-dive summaries, analyses, and notes on CLIP and CLIP-related vision-language research papers.
 
@@ -8,7 +8,7 @@
 
 The rapid growth of **Vision-Language Models (VLMs)** has produced hundreds of papers extending, improving, or rethinking CLIP. Reading and organizing this literature can be time-consuming, especially for researchers entering the field.
 
-**CLIP-Summary** is a curated repository of detailed paper summaries that focus on understanding the core ideas behind influential CLIP-based methods and multimodal foundation models.
+**CLIPpedia** is a curated repository of detailed paper summaries that focus on understanding the core ideas behind influential CLIP-based methods and multimodal foundation models.
 
 Rather than providing short abstracts, each summary aims to answer:
 
