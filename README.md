@@ -2,10 +2,6 @@
 
 > 🚀 A comprehensive collection of deep-dive summaries, analyses, and notes on CLIP and CLIP-related vision-language research papers.
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/CLIP-Summary?style=social)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Papers](https://img.shields.io/badge/Papers-Updated-blue)
-
 ---
 
 ## 🎯 About
