@@ -71,22 +71,18 @@ CLIPpedia/
 │
 ├── papers/
 │   ├── 2021/
-│   │   └── clip.md
+│   │   └── clip
 │   │
 │   ├── 2022/
-│   │   ├── openclip.md
-│   │   └── cocoop.md
+│   │   ├── openclip
+│   │   └── cocoop
 │   │
 │   ├── 2023/
-│   │   ├── siglip.md
-│   │   ├── blip2.md
+│   │   ├── siglip
+│   │   ├── blip2
 │   │   └── ...
 │   │
 │   └── 2024/
-│
-├── assets/
-│   ├── figures/
-│   └── diagrams/
 │
 └── README.md
 ```
